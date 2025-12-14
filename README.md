@@ -1,2 +1,2 @@
-# Aaruni-repo
+# Aaruni-Repo
 Python
